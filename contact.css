@@ -1,0 +1,21 @@
+#from-css{
+    padding: 30px;
+}
+#from-css2{
+    padding-left: 20px;
+}
+#legend-text{
+    font-size: 22px;
+    font-weight: bold;
+}
+#from-css3{
+    padding-left: 20px;
+}
+#submit-button{
+    background-color: rgba(27, 11, 250, 0.863);
+    color: white;
+}
+#reset-button{
+    background-color: rgba(22, 22, 238, 0.863);
+    color: white;
+}

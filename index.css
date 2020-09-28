@@ -1,0 +1,382 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#toggleMenu{
+    display: none;
+}
+#mainheadg{
+    margin: 0 auto;
+    width: 1280px;
+    height: 40px;
+    background-color: red;
+}
+.menuitm{
+    float: left;
+    color: white;
+    padding-top: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: relative;
+}
+.menuitm :hover{
+    color: blue;
+    text-decoration: none;
+}
+.menuitmstyl{
+    color: #1D1D1D;
+    text-decoration: none;
+    position: relative;
+}
+.clear{
+    clear: both;
+}
+#secendhead{
+    width: 100%;
+    height: 35px;
+    background-color: silver;
+}
+
+#logosearch{
+    width: 20px;
+    height: 24px;
+    margin-left: -2px;
+    margin-top: -2px;
+    position: relative;
+}
+
+#logomore{
+    width: 8px;
+    height: 8px;
+    margin-top: 0px;
+    position: relative;
+}
+
+#search{
+    border: 0;
+    background-color: #E4E4E4;
+    margin-left: 10px;
+    margin-top: -2px;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    color: 3858585;
+    float: left;
+    text-decoration: none;
+}
+#pagecontainer{
+    width: 1280px;
+    margin: 0 auto;
+}
+/*
+First article line
+One big
+*/
+#main-article{
+    float: left;
+}
+#article-container{
+    float: left;
+    width: 850px;
+    border-right: 1px solid #cccccc;
+    padding-right: 2px;
+    margin-bottom: 30px;
+}
+h1 a{
+    text-decoration: none;
+    color: #1D1D1D;
+}
+h1 a:hover{
+    color: #1167a8;
+}
+#article-summery{
+    width: 250px;
+    color: #5A5A5A;
+    float: left;
+}
+#clock{
+    width: 15px;
+    height: 15px;
+}
+#article-hr{
+    width: 50px;
+    color: #c51449;
+}
+#play-button{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 5px;
+}
+.atticle-link{
+    text-decoration: none;
+    color: #1D1D1D;
+}
+#article-img{
+    width: 480px;
+    margin-left: 20px;
+    float: left;
+}
+#update-container{
+    margin-left: 30px;
+    float: left;
+}
+
+#update-text{
+    margin-left: 60px;
+}
+.update-item{
+    text-decoration: none;
+    color: #1D1D1D;
+}
+.update-item :hover{
+    color: chartreuse;
+    text-decoration: none;
+}
+
+/*
+Secend article line
+four content
+*/
+.article2{
+    width: 300px;
+    height: 360px;
+    margin-top: 10px;
+    margin-right: 20px;
+    float: left;
+}
+.images2{
+    width: 295px;
+    height: 200px;
+    text-decoration: none;
+}
+h3 a:hover{
+    color: #1167a8;
+}
+.clock{
+    height: 10px;
+    width: 10px;
+    float: left;
+    position: relative;
+}
+p a:hover{
+    color: #1167a8;
+}
+/*
+    Big header
+*/
+.article-catagori1{
+    width: 100%;
+}
+.article-catagori2{
+    width: 1280px;
+    height: 50px;
+    margin: 0 auto;
+}
+.article-catagori-text{
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+    float: left;
+}
+.article-catagori-hr{
+    height: 17px;
+}
+/*
+Third article line
+one big content and six Small content
+*/
+.article3{
+    width: 470px;
+    height: 340px;
+    margin-top: 10px;
+    margin-right: 20px;
+    float: left;
+}
+.images3{
+    width: 430px;
+    height: 325px;
+    text-decoration: none;
+}
+.rightart{
+    float: right;
+    width: 790px;
+    height: 450px;
+}
+.article4{
+    width: 220px;
+    height: 200px;
+    margin-top: 10px;
+    margin-right: 20px;
+    float: left;
+}
+.images4{
+    width: 180px;
+    height: 130px;
+    text-decoration: none;
+}
+.mp{
+    margin: 0;
+    padding: 0;
+}
+.mp2{
+    padding-top: -10px;
+}
+/*
+    Find us hare
+*/
+
+.clear{
+    clear: both;
+}
+
+
+#commu-container{
+    width: 100%;
+}
+#social-link{
+    float: left;
+    width: 24%;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+}
+.social-link:hover{
+    color: yellow;
+}
+#email-subscribe{
+    float: left;
+    width: 24%;
+}
+#app-link{
+    width: 24%;
+    float: left;
+}
+#flow-email{
+    width: 24%;
+    float: left;
+}
+.email-app-txt{
+    text-decoration: none;
+    color: black;
+}
+.email-app-txt:hover{
+    color: yellow;
+}
+.padding-mar{
+    margin-top: 0;
+}
+.padding-mar2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.img-link{
+    width: 100%;
+    height: auto;
+}
+.link6{
+    text-decoration: none;
+    color: black;
+}
+.link6:hover{
+    color: yellow;
+}
+/*
+    Explore the 69Peoples section
+*/
+#under1-div100{
+    width: 100%;
+    background-color: #616060;
+}
+#under1-div1280{
+    width: 1280px;
+    height: 80px;
+    margin: 0 auto;
+    background-color:#616060;
+}
+#big-text{
+    color: white;
+    font-size: 26px;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    font-weight: bold;
+}
+#under2-div100{
+    width: 100%;
+    background-color: #616060;
+}
+#under2-div1280{
+    width: 1280px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #616060;
+}
+.under-link{
+    float: left;
+    color: white;
+    padding-right: 100px;
+    text-decoration: none;
+}
+div a:hover{
+    text-decoration: underline;
+}
+#under3-div100{
+    width: 100%;
+    background-color: #616060;
+}
+#under3-div1280{
+    width: 1280px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: #616060;
+}
+#hr1{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+#under4-div100{
+    width: 100%;
+    background-color: #616060;
+    margin: 0;
+}
+#under4-div1280{
+    width: 1280px;
+    margin: 0 auto;
+    height: 20px;
+    padding-bottom: 15px;
+    background-color: #616060;
+}
+.under-link2{
+    float: left;
+    color: white;
+    padding-right: 20px;
+    text-decoration: none;
+}
+#under5-div100{
+    width: 100%;
+    background-color: #616060;
+}
+#under5-div1280{
+    width: 1280px;
+    height: 20px;
+    margin: 0 auto;
+    padding-bottom: 8px;
+    background-color: #616060;
+}
+#under-text{
+    color: white;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 10px;
+}
+/*
+*/

@@ -1,0 +1,167 @@
+@media(max-width: 768px){
+    #toggleMenu{
+        width: 100%;
+        background: rgb(126, 123, 123);
+        overflow: hidden;
+        display: block;
+    }
+    #toggleButton{
+        color: white;
+        margin: 10px;
+        background-color: rgb(126, 123, 123);
+        float: right;
+    }
+    #pagecontainer{
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #mainheadg{
+        display: none;
+        width: 100%;
+        height: auto;
+    }
+    .menuitm{
+        width: 100%;
+        height: auto;
+        background-color: orangered;
+        border: 1PX solid black;
+    }
+    #logosearch{
+        height: 23px;
+    }
+    #main-article{
+        float: none;
+        width: 95%;
+        margin: 0 auto;
+    }
+    #article-container{
+        float: none;
+        height: 100%;
+        width: auto;
+        border-right: none;
+    }
+    #article-summery{
+        float: none;
+        width: 100%;
+        height: auto;
+    }
+    #article-img{
+        float: none;
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+        padding-left: 0;
+    }
+    #update-container{
+        display: none;
+    }
+    .article2{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .images2{
+        width: 100%;
+        height: auto;
+    }
+    .article-catagori2{
+        width: 100%;
+        height: auto;
+    }
+    .article3{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .images3{
+        width: 100%;
+        height: auto;
+    }
+    .rightart{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    .article4{
+        width: 45%;
+        height: auto;
+    }
+    .images4{
+        width: 100%;
+        height: auto;
+    }
+    .article-catagori1{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #social-link{
+        float: none;
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #email-subscribe{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #app-link{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #flow-email{
+        float: none;
+        width: 95%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #social-logo{
+        float: none;
+    }
+    #under1-div1280{
+        width: 100%;
+        height: auto;
+    }
+    #under2-div1280{
+        width: 100%;
+        height: auto;
+    }
+    #under3-div1280{
+        width: 100%;
+        height: auto;
+    }
+    #under4-div1280{
+        width: 100%;
+        height: auto;
+    }
+    #under5-div1280{
+        width: 100%;
+        height: auto;
+    }
+    .under-link{
+        float: none;
+        padding-left: 20px;
+        padding-bottom: 10px;
+    }
+    .under-link2{
+        float: none;
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+
+
+
+
+
+
+}
+
